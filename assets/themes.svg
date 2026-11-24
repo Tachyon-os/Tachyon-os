@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="416" viewBox="0 0 1000 416">
+<style>
+@font-face { font-family: Mono; src: url(data:font/woff2;base64,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); }
+
+.label { font-family: Mono; font-size: 11px; fill: #2a2a2c; }
+.hex { font-family: Mono; font-size: 11px; fill: #8a877f; }
+
+</style>
+<defs><clipPath id="card"><rect width="176" height="184" rx="12"/></clipPath></defs>
+<g clip-path="url(#card)" transform="translate(20 16)">
+	<rect width="176" height="184" fill="#121212"/>
+	<rect width="32" height="144" fill="#0f0f0f"/>
+	<circle cx="16" cy="20" r="8" fill="#86efac"/>
+	<circle cx="16" cy="44" r="8" fill="#ffffff" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#ffffff" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#ffffff" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#ababab"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#86efac"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#ffffff" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#ffffff" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#ffffff" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#ababab"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#0f0f0f"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Monolith</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#86efac</text>
+</g>
+<rect x="20.5" y="16.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(216 16)">
+	<rect width="176" height="184" fill="#000000"/>
+	<rect width="32" height="144" fill="#000000"/>
+	<circle cx="16" cy="20" r="8" fill="#86efac"/>
+	<circle cx="16" cy="44" r="8" fill="#ffffff" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#ffffff" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#ffffff" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#ababab"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#86efac"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#ffffff" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#ffffff" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#ffffff" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#ababab"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#000000"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Monolith OLED</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#86efac</text>
+</g>
+<rect x="216.5" y="16.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(412 16)">
+	<rect width="176" height="184" fill="#1e1936"/>
+	<rect width="32" height="144" fill="#18142d"/>
+	<circle cx="16" cy="20" r="8" fill="#ef6794"/>
+	<circle cx="16" cy="44" r="8" fill="#f3f3f1" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#f3f3f1" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#f3f3f1" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#6a5f96"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#ef6794"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#f3f3f1" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#f3f3f1" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#f3f3f1" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#6a5f96"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#18142d"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Amethyst</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#ef6794</text>
+</g>
+<rect x="412.5" y="16.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(608 16)">
+	<rect width="176" height="184" fill="#0a1428"/>
+	<rect width="32" height="144" fill="#08101e"/>
+	<circle cx="16" cy="20" r="8" fill="#70afff"/>
+	<circle cx="16" cy="44" r="8" fill="#e8f2ff" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#e8f2ff" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#e8f2ff" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#5a8fd4"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#70afff"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#e8f2ff" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#e8f2ff" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#e8f2ff" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#5a8fd4"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#08101e"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Brain Freeze</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#70afff</text>
+</g>
+<rect x="608.5" y="16.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(804 16)">
+	<rect width="176" height="184" fill="#192428"/>
+	<rect width="32" height="144" fill="#141e21"/>
+	<circle cx="16" cy="20" r="8" fill="#ff7f50"/>
+	<circle cx="16" cy="44" r="8" fill="#ffd0b8" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#ffd0b8" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#ffd0b8" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#7a9098"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#ff7f50"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#ffd0b8" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#ffd0b8" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#ffd0b8" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#7a9098"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#141e21"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Cinder &amp; Flame</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#ff7f50</text>
+</g>
+<rect x="804.5" y="16.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(20 216)">
+	<rect width="176" height="184" fill="#212529"/>
+	<rect width="32" height="144" fill="#1c2024"/>
+	<circle cx="16" cy="20" r="8" fill="#f5c542"/>
+	<circle cx="16" cy="44" r="8" fill="#f0f0f0" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#f0f0f0" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#f0f0f0" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#a8a8a8"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#f5c542"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#f0f0f0" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#f0f0f0" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#f0f0f0" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#a8a8a8"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#1c2024"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Gray_one</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#f5c542</text>
+</g>
+<rect x="20.5" y="216.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(216 216)">
+	<rect width="176" height="184" fill="#0e1828"/>
+	<rect width="32" height="144" fill="#081018"/>
+	<circle cx="16" cy="20" r="8" fill="#d8b880"/>
+	<circle cx="16" cy="44" r="8" fill="#e0e8f0" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#e0e8f0" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#e0e8f0" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#485878"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#d8b880"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#e0e8f0" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#e0e8f0" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#e0e8f0" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#485878"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#081018"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Nyctophobia</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#d8b880</text>
+</g>
+<rect x="216.5" y="216.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(412 216)">
+	<rect width="176" height="184" fill="#171a21"/>
+	<rect width="32" height="144" fill="#12151b"/>
+	<circle cx="16" cy="20" r="8" fill="#da235b"/>
+	<circle cx="16" cy="44" r="8" fill="#f5f0ea" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#f5f0ea" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#f5f0ea" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#8a94a6"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#da235b"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#f5f0ea" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#f5f0ea" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#f5f0ea" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#8a94a6"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#12151b"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Cerise</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#da235b</text>
+</g>
+<rect x="412.5" y="216.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(608 216)">
+	<rect width="176" height="184" fill="#121212"/>
+	<rect width="32" height="144" fill="#0f0f0f"/>
+	<circle cx="16" cy="20" r="8" fill="#cefe46"/>
+	<circle cx="16" cy="44" r="8" fill="#e4e8d4" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#e4e8d4" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#e4e8d4" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#7c8270"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#cefe46"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#e4e8d4" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#e4e8d4" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#e4e8d4" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#7c8270"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#0f0f0f"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Phosphor</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#cefe46</text>
+</g>
+<rect x="608.5" y="216.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+<g clip-path="url(#card)" transform="translate(804 216)">
+	<rect width="176" height="184" fill="#0b0b0a"/>
+	<rect width="32" height="144" fill="#060605"/>
+	<circle cx="16" cy="20" r="8" fill="#f95c4b"/>
+	<circle cx="16" cy="44" r="8" fill="#e4ded2" opacity="0.16"/>
+	<circle cx="16" cy="68" r="8" fill="#e4ded2" opacity="0.16"/>
+	<rect x="44" y="16" width="68" height="6" rx="3" fill="#e4ded2" opacity="0.85"/>
+	<rect x="44" y="28" width="108" height="4" rx="2" fill="#85806f"/>
+	<rect x="44" y="48" width="52" height="6" rx="3" fill="#f95c4b"/>
+	<rect x="44" y="60" width="116" height="4" rx="2" fill="#e4ded2" opacity="0.5"/>
+	<rect x="44" y="68" width="88" height="4" rx="2" fill="#e4ded2" opacity="0.5"/>
+	<rect x="44" y="88" width="64" height="6" rx="3" fill="#e4ded2" opacity="0.85"/>
+	<rect x="44" y="100" width="96" height="4" rx="2" fill="#85806f"/>
+	<rect x="44" y="120" width="120" height="16" rx="8" fill="#060605"/>
+	<rect y="144" width="176" height="40" fill="#f4f2ec"/>
+	<text x="12" y="168" class="label">Vellum</text>
+	<text x="164" y="168" class="hex" text-anchor="end">#f95c4b</text>
+</g>
+<rect x="804.5" y="216.5" width="175" height="183" rx="11.5" fill="none" stroke="rgba(236, 235, 231, 0.08)"/>
+</svg>
