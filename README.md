@@ -52,7 +52,9 @@ Most of them come with a wallpaper:
 	</tr>
 </table>
 
-### Current setup
+### Current code
+
+<img src="assets/setup.svg" alt="A C file and a one-line JavaScript file in an editor using the Phosphor colors" width="100%">
 
 > Every theme is finished until I open it on another monitor.
 >
