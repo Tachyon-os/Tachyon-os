@@ -54,8 +54,6 @@ Most of them come with a wallpaper:
 
 ### Current setup
 
-<img src="assets/setup.svg" alt="An Android home screen with the Lavender Dusk wallpaper and Rainy icons, next to a C file and a one-line JavaScript file" width="100%">
-
 > Every theme is finished until I open it on another monitor.
 >
 > I've changed the font on this page more times than I've written a for loop.
