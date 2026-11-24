@@ -10,7 +10,7 @@
 			<br><br>
 			I make Discord themes for Rain and Valenced, rice my Android phone, and spend an unreasonable amount of time deciding which gray a sidebar should be.
 			<br><br>
-			I can't really code. Claude writes it, I argue about the padding.
+			I can't really code but i try it. Claude's Plan is a goated song 
 			<br><br>
 			<img src="https://img.shields.io/badge/C-1b1b1e?style=flat-square&logo=c&logoColor=ecebe7" alt="C">
 			<img src="https://img.shields.io/badge/JavaScript-1b1b1e?style=flat-square&logo=javascript&logoColor=ecebe7" alt="JavaScript">
@@ -52,10 +52,10 @@ Most of them come with a wallpaper:
 	</tr>
 </table>
 
-### Current code
+### Le silly
 
 <img src="assets/setup.svg" alt="A C file and a one-line JavaScript file in an editor using the Phosphor colors" width="100%">
 
-> Every theme is finished until I open it on another monitor.
+> Every theme is finished until I redesing it right after im done.
 >
 > I've changed the font on this page more times than I've written a for loop.
